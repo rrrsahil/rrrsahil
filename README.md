@@ -1,19 +1,151 @@
-# 💫 About Me:
-🚀 Currently Working On: E-commerce websites using the MERN stack.<br>🤝 Looking to Collaborate On: MERN stack projects.<br>❓ Need Help With: React & Node.js optimization, authentication (JWT, bcrypt).<br>📚 Currently Learning: Advanced MERN stack & GitHub.<br>💡 Ask Me About: Full-stack development with MERN.<br>😄 Fun Fact: Just learned MERN stack & can't stop building! 
+# 💫 About Me
 
+Hi 👋 I'm **Alok Pandit**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-pandit-21012024ar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alokpandit2003@gmail.com) 
+🚀 **MERN Stack Developer & Blockchain Developer**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rrrsahil&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rrrsahil&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rrrsahil&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I build **scalable web applications, modern UI systems, and decentralized solutions**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rrrsahil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+I enjoy creating **clean, efficient, and production-ready applications** using modern web technologies.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rrrsahil&icon=2&color=1)](https://visitcount.itsvg.in)
+
+## 🚀 What I'm Doing
+
+🔭 Currently working on
+**Full Stack MERN Applications & Blockchain Projects**
+
+🤝 Looking to collaborate on
+**MERN Stack & Web3 Projects**
+
+❓ Currently exploring
+**Advanced Backend Architecture & Smart Contracts**
+
+📚 Learning
+**Scalable System Design, Blockchain & Web3**
+
+💬 Ask me about
+**React, Node.js, MongoDB, Express, Full Stack Development**
+
+⚡ Fun fact
+I love building projects and experimenting with **new technologies and UI systems**
+
+---
+
+# 🌐 Portfolio & Socials
+
+🌐 **Portfolio Website**
+
+https://portfoolio-web.netlify.app/
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/alok-pandit-21012024ar/
+
+📧 **Email**
+
+mailto:alokpandit2003@gmail.com
+
+---
+
+# 💻 Tech Stack
+
+### Frontend Development
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+---
+
+### Backend Development
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+---
+
+### Blockchain & Web3
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum\&logoColor=white)
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity\&logoColor=white)
+
+![Web3](https://img.shields.io/badge/Web3-000000?style=for-the-badge\&logo=web3dotjs\&logoColor=white)
+
+---
+
+### Tools & Technologies
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge\&logo=npm\&logoColor=white)
+
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![Alok GitHub stats](https://github-readme-stats.vercel.app/api?username=alokpanditt\&theme=tokyonight\&show_icons=true\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=alokpanditt\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alokpanditt\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+# 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=alokpanditt\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=4)
+
+---
+
+# 🚀 Featured Projects
+
+🔹 **Panic Outfits – WhatsApp Fashion E-Commerce Platform**
+
+MERN stack based WhatsApp ordering fashion platform with admin panel.
+
+🔹 **Conference Admin Panel**
+
+Modern responsive admin dashboard for conference management.
+
+🔹 **Portfolio Website**
+
+Interactive developer portfolio with animations and responsive design.
+
+🔹 **Pattern Detection Scanner**
+
+JavaScript based algorithm for pattern detection.
+
+---
+
+# 📈 Profile Visitors
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=alokpanditt\&icon=2\&color=1)
+
+---
+
+# ❤️ Support
+
+If you like my projects, consider giving ⭐ to the repositories!
+
+---
+
+<p align="center">
+Built with ❤️ by <b>Alok Pandit</b>
+</p>
