@@ -1,19 +1,15 @@
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Alok%20Pandit&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=Alok%20Pandit&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Alok Pandit</h1>
+<h1 align="center">Hi 👋 I'm Alok Pandit</h1>
 
 <h3 align="center">
-🚀 MERN Stack Developer | Blockchain Developer | Full Stack Engineer
+🚀 MERN Stack Developer • Blockchain Developer • Full Stack Engineer
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;MERN%20Stack%20Developer;Blockchain%20Developer;Building%20Scalable%20Web%20Apps;Web3%20&%20Smart%20Contract%20Developer&center=true&width=600&height=45&color=6C63FF&vCenter=true&size=22"/>
-
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;MERN%20Stack%20Developer;Blockchain%20Developer;Building%20Scalable%20Web%20Apps;Web3%20Developer;Smart%20Contract%20Engineer&center=true&width=650&height=45&color=6C63FF&vCenter=true&size=22"/>
 </p>
 
 ---
@@ -22,48 +18,41 @@
 
 Hi 👋 I'm **Alok Pandit**
 
-I am a **MERN Stack Developer and Blockchain Developer** passionate about building modern web applications and decentralized systems.
+I am a **Full Stack MERN Developer and Blockchain Developer** who enjoys building modern web applications and decentralized systems.
 
-I specialize in creating **scalable full-stack applications**, clean user interfaces, and efficient backend architectures.
+I focus on creating **scalable applications**, writing **clean maintainable code**, and building **real-world digital products**.
 
-My focus is on writing **clean, maintainable code** and building products that solve real-world problems.
+I enjoy solving complex technical problems and constantly learning new technologies in **Web Development and Web3 ecosystems**.
 
 ---
 
-## 🚀 What I'm Doing
+# 🚀 What I'm Doing
 
-🔭 **Currently Working On**
+🔭 Currently Working On  
+Building **scalable MERN stack applications and Web3 platforms**
 
-Building scalable **MERN Stack applications and Web3 projects**
+🤝 Looking To Collaborate On  
+Open-source **Full Stack and Blockchain projects**
 
-🤝 **Looking to Collaborate On**
+📚 Currently Learning  
 
-Open-source **MERN Stack and Blockchain projects**
+• System Design  
+• Blockchain infrastructure  
+• Smart contract security  
+• Scalable backend architectures  
 
-❓ **Currently Exploring**
+💬 Ask Me About  
 
-Advanced backend architecture
-Smart contracts
-Web3 integrations
+• React  
+• Node.js  
+• MongoDB  
+• Express  
+• REST APIs  
+• Web3 Development  
 
-📚 **Learning**
+⚡ Fun Fact  
 
-System design
-Blockchain infrastructure
-High-performance backend development
-
-💬 **Ask Me About**
-
-React
-Node.js
-MongoDB
-Express
-REST APIs
-Full Stack Development
-
-⚡ **Fun Fact**
-
-I enjoy building projects continuously and experimenting with new technologies.
+I love building projects and experimenting with new technologies.
 
 ---
 
@@ -83,57 +72,53 @@ I enjoy building projects continuously and experimenting with new technologies.
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://github.com/rrrsahil">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 🧑‍💻 Tech Stack
 
 ## Frontend Development
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+<p align="center">
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+</p>
 
 ---
 
 ## Backend Development
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+<p align="center">
 
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+</p>
 
 ---
 
 ## Blockchain & Web3
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum\&logoColor=white)
+<p align="center">
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=solidity,ethereum"/>
 
-![Web3](https://img.shields.io/badge/Web3-000000?style=for-the-badge\&logo=web3dotjs\&logoColor=white)
+</p>
 
 ---
 
 ## Tools
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+<p align="center">
 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge\&logo=npm\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite"/>
 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge\&logo=postman\&logoColor=white)
+</p>
 
 ---
 
@@ -187,40 +172,40 @@ I enjoy building projects continuously and experimenting with new technologies.
 
 # 🚀 Featured Projects
 
-### 🛒 Panic Outfits
+## 🛒 Panic Outfits
 
 WhatsApp based fashion e-commerce platform built using MERN stack.
 
 Features:
 
-• WhatsApp ordering
-• Admin dashboard
-• Product management
-• Category filtering
+• WhatsApp ordering  
+• Product management  
+• Admin dashboard  
+• Category filtering  
 
 ---
 
-### 🧑‍💻 Conference Admin Panel
+## 🧑‍💻 Conference Admin Panel
 
 Admin dashboard for managing conferences.
 
 Features:
 
-• Dashboard analytics
-• User management
-• Event control
+• Dashboard analytics  
+• User management  
+• Event control  
 
 ---
 
-### 🌐 Developer Portfolio
+## 🌐 Developer Portfolio
 
-Interactive portfolio website with animations and responsive design.
+Modern interactive portfolio with animations and responsive design.
 
 ---
 
-### 🔍 Pattern Detection Scanner
+## 🔍 Pattern Detection Scanner
 
-JavaScript-based algorithm for pattern detection.
+JavaScript-based algorithm system for pattern recognition.
 
 ---
 
@@ -236,40 +221,40 @@ JavaScript-based algorithm for pattern detection.
 
 # ⭐ Recommended Pinned Repositories
 
-You should pin these repositories on your profile:
+Pin these repositories to your GitHub profile.
 
-• Portfolio Website
-• Panic Outfits
-• Conference Admin Panel
-• Pattern Detection Scanner
-• GLTTV React
+• Portfolio Website  
+• Panic Outfits  
+• Conference Admin Panel  
+• Pattern Detection Scanner  
+• GLTTV React  
 
 ---
 
 # 📌 Tips To Make Your Profile Stand Out
 
-1️⃣ Make important repositories public
+1️⃣ Make important repositories public  
 
 Recruiters cannot see private repositories.
 
-2️⃣ Add screenshots in project repositories
+2️⃣ Add screenshots in project repositories  
 
-Screenshots increase project credibility.
+Screenshots increase credibility.
 
-3️⃣ Add live demo links
+3️⃣ Add live demo links  
 
 Example:
 
 Live Demo | GitHub | Tech Stack
 
-4️⃣ Write proper README for each project
+4️⃣ Write proper README for each project  
 
 Explain:
 
-• problem
-• solution
-• tech stack
-• features
+• problem  
+• solution  
+• tech stack  
+• features  
 
 ---
 
