@@ -231,33 +231,6 @@ Pin these repositories to your GitHub profile.
 
 ---
 
-# 📌 Tips To Make Your Profile Stand Out
-
-1️⃣ Make important repositories public  
-
-Recruiters cannot see private repositories.
-
-2️⃣ Add screenshots in project repositories  
-
-Screenshots increase credibility.
-
-3️⃣ Add live demo links  
-
-Example:
-
-Live Demo | GitHub | Tech Stack
-
-4️⃣ Write proper README for each project  
-
-Explain:
-
-• problem  
-• solution  
-• tech stack  
-• features  
-
----
-
 # ❤️ Support
 
 If you like my work, consider giving ⭐ to the repositories.
