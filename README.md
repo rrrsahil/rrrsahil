@@ -1,8 +1,18 @@
-# 👋 Hi, I'm Alok Pandit
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Alok%20Pandit&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+
+</p>
+
+<h1 align="center">Hi 👋, I'm Alok Pandit</h1>
+
+<h3 align="center">
+🚀 MERN Stack Developer | Blockchain Developer | Full Stack Engineer
+</h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&color=6C63FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Blockchain+Developer;Full+Stack+Engineer;Building+Scalable+Web+Apps;Welcome+to+my+GitHub+Profile!" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;MERN%20Stack%20Developer;Blockchain%20Developer;Building%20Scalable%20Web%20Apps;Web3%20&%20Smart%20Contract%20Developer&center=true&width=600&height=45&color=6C63FF&vCenter=true&size=22"/>
 
 </p>
 
@@ -10,63 +20,70 @@
 
 # 💫 About Me
 
-🚀 **MERN Stack Developer & Blockchain Developer**
+Hi 👋 I'm **Alok Pandit**
 
-I am a passionate developer who focuses on building **scalable full-stack web applications and decentralized blockchain solutions**.
+I am a **MERN Stack Developer and Blockchain Developer** passionate about building modern web applications and decentralized systems.
 
-I enjoy transforming ideas into **high-performance web products** using modern technologies.
+I specialize in creating **scalable full-stack applications**, clean user interfaces, and efficient backend architectures.
 
-My goal is to write **clean, maintainable and production-ready code** while continuously improving my engineering skills.
+My focus is on writing **clean, maintainable code** and building products that solve real-world problems.
 
 ---
 
-# 🚀 Current Focus
+## 🚀 What I'm Doing
 
 🔭 **Currently Working On**
 
-Building modern **MERN stack applications and blockchain powered platforms**
+Building scalable **MERN Stack applications and Web3 projects**
 
-🤝 **Looking To Collaborate On**
+🤝 **Looking to Collaborate On**
 
-Open source **MERN stack & Web3 projects**
+Open-source **MERN Stack and Blockchain projects**
 
-❓ **Need Help With**
+❓ **Currently Exploring**
 
-Advanced **React optimization, Node.js scaling and Web3 integrations**
+Advanced backend architecture
+Smart contracts
+Web3 integrations
 
-📚 **Currently Learning**
+📚 **Learning**
 
 System design
-Blockchain architecture
-Advanced backend optimization
+Blockchain infrastructure
+High-performance backend development
 
 💬 **Ask Me About**
 
-React.js
+React
 Node.js
 MongoDB
-Express.js
+Express
+REST APIs
 Full Stack Development
 
 ⚡ **Fun Fact**
 
-I love building projects and experimenting with **new developer tools and modern UI systems**
+I enjoy building projects continuously and experimenting with new technologies.
 
 ---
 
 # 🌐 Portfolio & Socials
 
-### 🌐 Portfolio Website
+<p align="center">
 
-https://portfoolio-web.netlify.app/
+<a href="https://portfoolio-web.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
 
-### 💼 LinkedIn
+<a href="https://www.linkedin.com/in/alok-pandit-21012024ar/">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-https://www.linkedin.com/in/alok-pandit-21012024ar/
+<a href="mailto:alokpandit2003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 📧 Email
-
-mailto:alokpandit2003@gmail.com
+</p>
 
 ---
 
@@ -92,7 +109,7 @@ mailto:alokpandit2003@gmail.com
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
@@ -108,7 +125,7 @@ mailto:alokpandit2003@gmail.com
 
 ---
 
-## Tools & Technologies
+## Tools
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 
@@ -124,9 +141,9 @@ mailto:alokpandit2003@gmail.com
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rrrsahil&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rrrsahil&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=rrrsahil&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=rrrsahil&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -148,7 +165,7 @@ mailto:alokpandit2003@gmail.com
 
 ---
 
-# 📈 GitHub Contribution Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
@@ -158,11 +175,11 @@ mailto:alokpandit2003@gmail.com
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 GitHub Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -170,37 +187,40 @@ mailto:alokpandit2003@gmail.com
 
 # 🚀 Featured Projects
 
-### Panic Outfits — WhatsApp Fashion E-Commerce Platform
+### 🛒 Panic Outfits
 
-MERN stack powered fashion platform with WhatsApp ordering system and admin dashboard.
+WhatsApp based fashion e-commerce platform built using MERN stack.
 
----
+Features:
 
-### Conference Admin Panel
-
-Modern responsive admin panel for managing conferences, speakers and schedules.
-
----
-
-### Portfolio Website
-
-Interactive developer portfolio built using HTML, CSS and JavaScript.
-
-Live demo available at:
-
-https://portfoolio-web.netlify.app/
+• WhatsApp ordering
+• Admin dashboard
+• Product management
+• Category filtering
 
 ---
 
-### Pattern Detection Scanner
+### 🧑‍💻 Conference Admin Panel
 
-JavaScript based algorithm system used to detect patterns within data sets.
+Admin dashboard for managing conferences.
+
+Features:
+
+• Dashboard analytics
+• User management
+• Event control
 
 ---
 
-### GLTTV React
+### 🌐 Developer Portfolio
 
-React based front-end application demonstrating modern component architecture.
+Interactive portfolio website with animations and responsive design.
+
+---
+
+### 🔍 Pattern Detection Scanner
+
+JavaScript-based algorithm for pattern detection.
 
 ---
 
@@ -208,40 +228,65 @@ React based front-end application demonstrating modern component architecture.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rrrsahil&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=rrrsahil&label=Profile%20views&color=6C63FF&style=for-the-badge"/>
 
 </p>
 
 ---
 
-# ⭐ Recruiter Tips
+# ⭐ Recommended Pinned Repositories
 
-If you are a recruiter or developer visiting my profile:
+You should pin these repositories on your profile:
 
-• Check my pinned repositories
-• Explore the portfolio project
-• Review MERN stack projects
-• Explore admin dashboards and UI systems
+• Portfolio Website
+• Panic Outfits
+• Conference Admin Panel
+• Pattern Detection Scanner
+• GLTTV React
 
-My repositories demonstrate:
+---
 
-Full stack development
-Clean UI architecture
-Modern JavaScript practices
-Backend API development
+# 📌 Tips To Make Your Profile Stand Out
+
+1️⃣ Make important repositories public
+
+Recruiters cannot see private repositories.
+
+2️⃣ Add screenshots in project repositories
+
+Screenshots increase project credibility.
+
+3️⃣ Add live demo links
+
+Example:
+
+Live Demo | GitHub | Tech Stack
+
+4️⃣ Write proper README for each project
+
+Explain:
+
+• problem
+• solution
+• tech stack
+• features
 
 ---
 
 # ❤️ Support
 
-If you like my projects, consider giving ⭐ to the repositories.
-
-Your support motivates me to keep building and learning.
+If you like my work, consider giving ⭐ to the repositories.
 
 ---
 
 <p align="center">
 
 Built with ❤️ by <b>Alok Pandit</b>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
 
 </p>
