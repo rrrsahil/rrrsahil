@@ -18,7 +18,7 @@
 
 Hi 👋 I'm **Alok Pandit**
 
-I am a **Full Stack MERN Developer and Blockchain Developer** who enjoys building modern web applications and decentralized systems.
+I am a **Full Stack Developer and Blockchain Developer** who enjoys building modern web applications and decentralized systems.
 
 I focus on creating **scalable applications**, writing **clean maintainable code**, and building **real-world digital products**.
 
